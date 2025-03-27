@@ -27,7 +27,7 @@
  ---
  
  ### About ME
- - 🥇 **Google Girl Hackathon Winner 2024 (India)**
+ 
  - 👩‍💻 Proficient in Deep Learning & Neural Networks, Computer Vision, Machine Learning, Data Structures & Algorithm, C++, Python, MERN
  - 👩‍💼 B.Tech Third Year Student pursuing Computer Science Engineering. <br/>
  - 🏆 **Hackathon Champion:** Won **8+ hackathons and CSE Competitions** <br/>
